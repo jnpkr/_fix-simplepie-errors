@@ -1,0 +1,16 @@
+{
+  "name": "jnpkr/wp-simplepie-fix",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/jnpkr/wp-simplepie-fix",
+  "authors": [
+    {
+      "name": "Michael Uno",
+      "homepage": "https://github.com/michaeluno"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.1"
+  }
+}
